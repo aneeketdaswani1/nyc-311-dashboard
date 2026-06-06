@@ -7,7 +7,7 @@ A cloud-native geospatial dashboard that visualizes 50,000+ NYC 311 service comp
 
 ## Live Demo
 
-🔗 [**View the live dashboard**](YOUR_ECS_URL_HERE)
+🔗 [**View the live dashboard**](https://ny-3f582cb214224be5857ea3579d286f1c.ecs.us-east-1.on.aws/)
 <!-- Replace with your ECS Express Mode URL -->
 
 ## Architecture
