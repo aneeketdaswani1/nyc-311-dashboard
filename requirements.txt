@@ -1,0 +1,6 @@
+streamlit
+pandas
+pydeck
+pyathena
+boto3
+pyarrow

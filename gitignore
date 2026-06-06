@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.parquet
+*.csv
+.env
+.aws/
+.streamlit/secrets.toml
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
