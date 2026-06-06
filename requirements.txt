@@ -4,3 +4,4 @@ pydeck
 pyathena
 boto3
 pyarrow
+plotly
